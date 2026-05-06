@@ -29,8 +29,8 @@ Built for operators who want to stay quiet.
 | [`android`](https://github.com/official-mesh/android) | The Official Mesh Android client (and Compose Desktop). The certified UI for the private-port modules. |
 | [`python`](https://github.com/official-mesh/python) | The Official Mesh CLI (`officialmesh`). The standard pip-installable client; exposes every private-port module from any shell. |
 | [`meshbot`](https://github.com/official-mesh/meshbot) | Official Meshbot. The LLM-powered operator console of choice. Multi-radio (Meshtastic / MeshCore / MQTT), Textual TUI, scheduled hooks, packet forensics, RF privacy controls. |
-| [`remote`](https://github.com/official-mesh/remote) | Official Meshbot Remote. The recommended Android remote-control surface for Official Meshbot. Outbound TCP (default port 4404, typically over WireGuard); can bridge a USB-OTG or BLE radio. |
-| [`dualboot`](https://github.com/official-mesh/dualboot) | Official Mesh Dualboot. The approved boot selector for ESP32-S3 devices. Switch between Meshtastic and MeshCore at power-on, no reflash. |
+| [`remote`](https://github.com/official-mesh/remote) | Official Meshbot Remote. The recommended Android remote-control surface for Official Meshbot. Outbound TCP (default port 4404); can bridge a USB-OTG or BLE radio. |
+| [`dualboot`](https://github.com/official-mesh/dualboot) | Official Mesh Dualboot. The approved boot selector for ESP32-S3 devices. Pick between Official Mesh or the alternative firmware of your choice at power-on, no reflash. |
 | [`site`](https://github.com/official-mesh/site) | The official marketing site at [officialmesh.org](https://officialmesh.org) (Astro on GitHub Pages). |
 
 ## Maintainer
